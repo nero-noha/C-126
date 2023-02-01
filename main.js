@@ -1,7 +1,9 @@
 song = "";
+song2 = "";
 
 function preload() {
     song = loadSound("music.mp3");
+    song2 = loadSound("bleach-music_number-one-ost-bleach.mp3");
 }
 
 function setup() {
